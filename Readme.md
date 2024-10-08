@@ -1,4 +1,4 @@
-# 💻 TADS TECH 
+# 💻 TADS TECH <img src="assets/img/logo-dino-new.png" width="100" height="100" alt="Descrição da imagem">
 Este projeto está sendo feito em colaboração com a turma do 2º ANO de TADS do IFPR - Campus Cascavel.
 
 O TADS TECH é um projeto realizado na matéria e Projeto Integrador, criado pela aluna Leticia Mussolin. O objetivo desta tarefa, é apresentar aos colegas a metodologia ágil "Scrum", através de planejamento e desenvolvimento de atividades práticas.
