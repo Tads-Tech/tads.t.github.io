@@ -17,3 +17,4 @@ Onde:
 - TIME QA: deve garantir que o projeto desenvolvido pela equipe DEV, tenha seguido todas as recomendações propostas na tarefa, e que não tenha prejudicado o sistema, ocasionado novos bugs e despadronizações. 
 ***
 Por fim, cada equipe deve desempenhar seu papel. E dependem de seus colegas para que o projeto seja desempenhado adequadamente. 
+teste leticia
